@@ -1,4 +1,5 @@
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+https://www.educative.io/courses/grokking-the-coding-interview
 ## Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
